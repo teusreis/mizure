@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.multiRootWorkspaceName": "mizuxe",
+    "liveSassCompile.settings.formats": [{
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "/css"
+    }]
+}
